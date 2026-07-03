@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ekklosaas/Compagnie/releases/download/v0.1.0/compagnie_0.1.0_windows_amd64.zip",
+            "bin": [
+                "compagnie.exe"
+            ],
+            "hash": "e6e7290e6171b30c009d2a53ee02ca6acc8657d638f41df50656d3fe6fb3ad9d"
+        }
+    },
+    "homepage": "https://compagnie.ai",
+    "license": "UNLICENSED",
+    "description": "Compagnie — the Company OS, from your terminal"
+}
