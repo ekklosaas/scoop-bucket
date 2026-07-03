@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ekklosaas/compagnie-cli/releases/download/v0.1.4/compagnie_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/ekklosaas/compagnie-cli/releases/download/v0.1.5/compagnie_0.1.5_windows_amd64.zip",
             "bin": [
                 "compagnie.exe"
             ],
-            "hash": "bd3401b3f3fa2d7895c3df69e40929a1d5582db83a1c10335985804263b2022f"
+            "hash": "6beb2f081ed6168b272ab7349cfd2769d30ddf1691faab88c4bc087a7ea1a39a"
         }
     },
     "homepage": "https://compagnie.ai",
